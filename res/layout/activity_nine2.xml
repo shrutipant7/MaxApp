@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:background="#ff000000" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ScrollView n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+        <LinearLayout n1:orientation="vertical" n1:padding="10.0dip" n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+            <ImageView n1:id="@id/imageView3" n1:layout_width="wrap_content" n1:layout_height="318.0dip" n2:srcCompat="@drawable/mitsubishilancer" xmlns:n2="http://schemas.android.com/apk/res-auto" />
+            <TextView n1:textSize="25.0dip" n1:textColor="#ffffffff" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="23.0dip" n1:text="Specifications of Skoda Rapid Choose Variant 1.5 TDI Active (Diesel) 9.83 Lakh*1.5 TDI Active (Diesel) 9.83 Lakh* *Ex-showroom price in New Delhi Skoda Rapid Front View Skoda Rapid Side View Key specifications of Skoda Rapid 1.5 TDI Active (Diesel) Ex-showroom Price New Delhi  Rs 9,82,970Finance Quotes Mileage (ARAI) kmpl  21.14 kmpl Mileage (City) kmpl  12.6 kmpl Fuel Type  Diesel Engine Displacement  1498 cc BHP  108.4bhp@4000rpm Torque  250Nm@1500-2500rpm  Advertisement      Don't miss out on the festive offers this April      From Authorized Skoda dealers  Technical specs of Skoda Rapid 1.5 TDI Active (Diesel)  All variants of the Skoda Rapid are pretty much feature-laden and full of the expected technical specs. Rapid Diesel engine specification include an engine of 1498cc, which musters up a torque measuring to 250Nm@1500-2500rpm and maximum power of 108.4bhp@4000rpm. Rapid top model coughs out an average or giving an overall mileage of around 10.8 kmpl, with a fuel efficiency within a city of 0.0 kmpl and on highways the mileage stands out as 21.6" n1:layout_marginStart="25.0dip" n3:layout_constraintStart_toStartOf="parent" n3:layout_constraintTop_toBottomOf="@id/textView7" xmlns:n3="http://schemas.android.com/apk/res-auto" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

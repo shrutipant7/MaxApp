@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:background="#ff000000" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ScrollView n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+        <LinearLayout n1:orientation="vertical" n1:padding="10.0dip" n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+            <ImageView n1:id="@id/imageView3" n1:layout_width="wrap_content" n1:layout_height="318.0dip" n2:srcCompat="@drawable/tvsapache" xmlns:n2="http://schemas.android.com/apk/res-auto" />
+            <TextView n1:textSize="25.0dip" n1:textColor="#ffffffff" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="23.0dip" n1:text="Apache is named after the Japanese name of Peregrine Falcon, the fastest bird in the world which flies at a speed of 203 mph. At a top speed of 194 miles per hour, the Suzuki Hayabusa could even reach close to Peregrine falcon.  Hayabusa is the fastest superbike from Suzuki. This ultimate superbike features a 1397 cc four-cylinder 16 valves, liquid cooled engine that produce the power of 197HP@6750 rpm.  Key Specifications 1340cc, four-stroke, DOHC, 4-cylinder 16 valves engine. 6-speed constant mesh transmission. Maximum power:197 hp@9500 rpm. Maximum Torque: 155 Nm@7200 rpm. Top speed: 194 miles per hour.  Bhp@ 10,000 rpm. Maximum torque:158.2 Nm@7500 rpm. Top speed: 208.1 miles per hour. 0 to 100 kmph: 2.7 seconds. 0 to 200 kmph: 7.2 seconds. Front brakes: 2*310 petal discs, four piston calipers. Rear brakes : single 250 mm petal disc, 2 piston caliper. 3 MTT Turbine Superbike Y2K, 227 miles per hour  MTT Turbike Superbike Y2K" n1:layout_marginStart="25.0dip" n3:layout_constraintStart_toStartOf="parent" n3:layout_constraintTop_toBottomOf="@id/textView7" xmlns:n3="http://schemas.android.com/apk/res-auto" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

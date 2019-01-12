@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:background="#ff000000" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ScrollView n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+        <LinearLayout n1:orientation="vertical" n1:padding="10.0dip" n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+            <ImageView n1:id="@id/imageView3" n1:layout_width="wrap_content" n1:layout_height="318.0dip" n2:srcCompat="@drawable/mitsubishieclipse" xmlns:n2="http://schemas.android.com/apk/res-auto" />
+            <TextView n1:textSize="25.0dip" n1:textColor="#ffffffff" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="23.0dip" n1:text="Specifications of Skoda Octavia Choose Variant 2.0 TDI MT Ambition (Diesel) 17.84 Lakh*2.0 TDI MT Ambition (Diesel) 17.84 Lakh* *Ex-showroom price in New Delhi Skoda Octavia Front View Skoda Octavia Side View Key specifications of Skoda Octavia 2.0 TDI MT Ambition (Diesel) Ex-showroom Price New Delhi  Rs 17,84,204Finance Quotes Mileage (ARAI) kmpl  21.0 kmpl Mileage (City) kmpl  - Fuel Type  Diesel Engine Displacement  1968 cc BHP  141bhp@3500-4000rpm Torque  320Nm@1750-3000rpm  Advertisement      Don't miss out on the festive offers this April      From Authorized Skoda dealers  Technical specs of Skoda Octavia 2.0 TDI MT Ambition (Diesel)  All variants of the Skoda Octavia are pretty much feature-laden and full of the expected technical specs. Octavia Diesel  round 9.8 kmpl, with a fuel efficiency within a city of 0.0 kmpl and on highways the mileage stands out as 19.5 kmpl. Skoda Octa via Automatic comes in diesel  petrol engine options. Engine Transmission" n1:layout_marginStart="25.0dip" n3:layout_constraintStart_toStartOf="parent" n3:layout_constraintTop_toBottomOf="@id/textView7" xmlns:n3="http://schemas.android.com/apk/res-auto" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

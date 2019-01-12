@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:background="#ff000000" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ScrollView n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+        <LinearLayout n1:orientation="vertical" n1:padding="10.0dip" n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+            <ImageView n1:id="@id/imageView3" n1:layout_width="wrap_content" n1:layout_height="318.0dip" n2:srcCompat="@drawable/fordecosport" xmlns:n2="http://schemas.android.com/apk/res-auto" />
+            <TextView n1:textSize="25.0dip" n1:textColor="#ffffffff" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="23.0dip" n1:text="Specifications of Ford EcoSport Choose Variant 1.5 Diesel Ambiente (Diesel) 8.37 Lakh*1.5 Diesel Ambiente (Diesel) 8.37 Lakh* *Ex-showroom price in New Delhi Ford EcoSport Front View Ford EcoSport Side View Key specifications of Ford EcoSport 1.5 Diesel Ambiente (Diesel) Ex-showroom Price New Delhi  Rs 8,37,300Finance Quotes Mileage (ARAI) kmpl  23.0 kmpl Mileage (City) kmpl  - Fuel Type  Diesel Engine Displacement  1498 cc BHP  98.96bhp@3750rpm Torque  205Nm@1750-3250rpm  Advertisement       From Authorized Ford dealers  Technical specs of Ford EcoSport 1.5 Diesel Ambiente (Diesel)  All variants of the Ford EcoSport SUV are pretty much feature-laden and full of the expected technical specs. EcoSport Diesel engine specification include an engine of 1498cc, which musters up a torque measuring to 205Nm@1750-3250rpm and maximum power of 98.96bhp@3750rpm. EcoSport top model coughs out an average or giving an overall mileage of around 11.5 kmpl, with a fuel efficiency within a city of 0.0 kmpl and on highways the mileage stands out as 23.0 kmpl. Ford EcoSport Automatic comes in petro" n1:layout_marginStart="25.0dip" n3:layout_constraintStart_toStartOf="parent" n3:layout_constraintTop_toBottomOf="@id/textView7" xmlns:n3="http://schemas.android.com/apk/res-auto" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
